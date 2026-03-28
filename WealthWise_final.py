@@ -1,4 +1,3 @@
-# paisa_path_app.py
 import base64
 import io
 import json
